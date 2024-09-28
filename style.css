@@ -241,6 +241,31 @@ footer {
   margin-top: 0.3rem;
 }
 
+@media screen and (max-width: 885px) {
+  header {
+    padding: 1rem 1rem;
+  }
+  nav {
+    gap: 0.5rem;
+  }
+  .logo h2 {
+    font-size: 1.5rem;
+  }
+  .logo span {
+    font-size: 1.5rem;
+  }
+  .sign-up {
+    gap: 0.7rem;
+  }
+  .sign-up .request {
+    font-size: 22px;
+  }
+
+  .sign-up .sign {
+    font-size: 22px;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .main-container .input input {
     padding: 0.5em;
