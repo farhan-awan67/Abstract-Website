@@ -264,6 +264,18 @@ footer {
   .sign-up .sign {
     font-size: 22px;
   }
+  .box h3 {
+    font-size: 33px;
+  }
+  .box a {
+    font-size: 20px;
+  }
+  .box p {
+    font-size: 25px;
+  }
+  .section-container {
+    margin: 0 0.2rem;
+  }
 }
 
 @media screen and (max-width: 768px) {
